@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/22592773/how-to-spawn-objects-randomly-on-a-line-using-javascript-html5
+
+https://stackoverflow.com/questions/28527578/spawning-an-image-and-making-it-move-with-javascript
+
+https://www.w3schools.com/graphics/game_images.asp
